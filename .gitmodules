@@ -1,6 +1,0 @@
-[submodule "project11sept9-frontend"]
-	path = project11sept9-frontend
-	url = https://github.com/astha-agrawal09/project11sept9-frontend.git
-[submodule "project11sept9-backend"]
-	path = project11sept9-backend
-	url = https://github.com/astha-agrawal09/project11sept9-backend.git
